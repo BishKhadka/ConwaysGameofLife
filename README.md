@@ -1,4 +1,4 @@
-# Conway's Game of Life
+## Conway's Game of Life
 
 I simulated the Conway’s game of life implementing classes like Cell, Landscape, LandscapeDisplay, and LifeSimulation. 
 One particular location in a grid was represented using Cell object. 
